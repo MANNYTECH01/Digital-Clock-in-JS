@@ -1,4 +1,4 @@
-Digital Clock using JS
+**Digital Clock using JS**
 
 A simple, clean, and stylish digital clock created with HTML, CSS, and JavaScript. It displays the current time in a 12-hour format with AM/PM against a cool, tech-inspired background.
 
@@ -15,14 +15,21 @@ Modern UI: Features a clean, futuristic design with a blurred background effect 
 📂 File Structure
 Here is the structure of the project files:
 
-DIGITAL CLOCK USING JS/
+**DIGITAL CLOCK USING JS
+/
 │
+
 ├── index.html         # The main HTML file for the clock's structure
+
 ├── style.css          # CSS for styling the clock and background
+
 ├── index.js           # JavaScript for the clock's functionality
+
 ├── COMP.jpeg          # The background image
+
 ├── b.exe              # Executable file (not part of the web project)
-└── m.exe              # Executable file (not part of the web project)
+
+└── m.exe              # Executable file (not part of the web project)**
 
 ⚙️ How It Works
 The project combines three core web technologies:
