@@ -1,4 +1,5 @@
 Digital Clock using JS
+
 A simple, clean, and stylish digital clock created with HTML, CSS, and JavaScript. It displays the current time in a 12-hour format with AM/PM against a cool, tech-inspired background.
 
 
